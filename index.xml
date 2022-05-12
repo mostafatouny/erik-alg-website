@@ -7,7 +7,7 @@
     <description>Erik&#39;s Algorithms Study Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://mostafatouny.github.io/erik-alg-website/media/icon_hu9005a7450fd4105d0dc0f91ff08c2551_114496_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mostafatouny.github.io/erik-alg-website/media/icon_hu9005a7450fd4105d0dc0f91ff08c2551_114496_512x512_fill_lanczos_center_3.png</url>
       <title>Erik&#39;s Algorithms Study Group</title>
       <link>https://mostafatouny.github.io/erik-alg-website/</link>
     </image>
@@ -39,7 +39,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(16/04/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-16-04-2022:0&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-16-04-2022:0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Summary
 &lt;em&gt;Mostafa&lt;/em&gt; and &lt;em&gt;Caio&lt;/em&gt; exchanged some advises, and what each of them has been doing. &lt;em&gt;Lucas&lt;/em&gt; turned out to have his birthday at the day of meeting.&lt;/p&gt;
@@ -49,7 +49,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(09/04/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-meeting-09-04-2022:a&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-meeting-09-04-2022:a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Summary&lt;/p&gt;
 &lt;ul&gt;
@@ -104,7 +104,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(26/03/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-26-03-2022:1&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-26-03-2022:1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Summary&lt;/p&gt;
 &lt;ul&gt;
@@ -117,7 +117,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(19/03/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-19-03-2022:c&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-19-03-2022:c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
@@ -126,12 +126,12 @@
 &lt;p&gt;Summary&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Caio&lt;/em&gt;&amp;rsquo;s master thesis is going to use logic technique and rigour. That&amp;rsquo;s why he is interested in learning discrete math and logic through Rosen&amp;rsquo;s book. Master is probably going to be about program verification and hardware algorithms like registers allocation problem.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Mostafa&lt;/em&gt;, besides rosen&amp;rsquo;s book, recommends &lt;a href=&#34;https://www.people.vcu.edu/~rhammack/BookOfProof/&#34;&gt;book of proof&lt;/a&gt; and &lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-51653-0&#34;&gt;Applied Logic for Computer Scientists&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; is already familiar with discrete math and logic; What is missing from him is the capability of applying them in algorithms context. Currently he is training on graph and greedy algorithms through &lt;a href=&#34;https://www.pearson.com/us/higher-education/program/Manber-Algorithms-A-Creative-Approach/PGM13009.html&#34;&gt;Introduction to Algorithms: A Creative Approach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; asked &lt;em&gt;Mostafa&lt;/em&gt; about theoretical CS, where he wishes to know whether reductions and NP-completeness proofs are accessble with minimal background in algorithms. &lt;em&gt;Lucas&lt;/em&gt; also noted &lt;a href=&#34;https://link.springer.com/gp/book/9781846289699&#34;&gt;Bondy and Murty&amp;rsquo;s graph theory&lt;/a&gt; book contains a chapter about complexity theory even though the book is not about algorithms. He wondered whether only combinatorics are sufficient to achieve a progress.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mostafa&lt;/em&gt;, besides rosen&amp;rsquo;s book, recommends &lt;a href=&#34;https://www.people.vcu.edu/~rhammack/BookOfProof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book of proof&lt;/a&gt; and &lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-51653-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applied Logic for Computer Scientists&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; is already familiar with discrete math and logic; What is missing from him is the capability of applying them in algorithms context. Currently he is training on graph and greedy algorithms through &lt;a href=&#34;https://www.pearson.com/us/higher-education/program/Manber-Algorithms-A-Creative-Approach/PGM13009.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Algorithms: A Creative Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; asked &lt;em&gt;Mostafa&lt;/em&gt; about theoretical CS, where he wishes to know whether reductions and NP-completeness proofs are accessble with minimal background in algorithms. &lt;em&gt;Lucas&lt;/em&gt; also noted &lt;a href=&#34;https://link.springer.com/gp/book/9781846289699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bondy and Murty&amp;rsquo;s graph theory&lt;/a&gt; book contains a chapter about complexity theory even though the book is not about algorithms. He wondered whether only combinatorics are sufficient to achieve a progress.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Mostafa&lt;/em&gt; confirms theoretical CS is can be approached mainly through combinatorics; Generally, It can approached by algorithms or logic as well.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; praised &lt;a href=&#34;http://erikdemaine.org/supercollaboration/&#34;&gt;erik&amp;rsquo;s super collaboration&lt;/a&gt;. He loves also to tackle open problems in graph theory, while they are not related to his main research field, which is computational biology. He talked about genome assembly problem, which is heavily based on graph theory, particularly hamiltonian paths.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Mostafa&lt;/em&gt; showed &lt;a href=&#34;https://www.tandfonline.com/toc/umma20/95/1?nav=tocList&#34;&gt;MAA magazines&lt;/a&gt;, illustrating its goal for exposing ideas to a wider audience, captivating their interest in a way that invokes a discussion.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lucas&lt;/em&gt; praised &lt;a href=&#34;http://erikdemaine.org/supercollaboration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;erik&amp;rsquo;s super collaboration&lt;/a&gt;. He loves also to tackle open problems in graph theory, while they are not related to his main research field, which is computational biology. He talked about genome assembly problem, which is heavily based on graph theory, particularly hamiltonian paths.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mostafa&lt;/em&gt; showed &lt;a href=&#34;https://www.tandfonline.com/toc/umma20/95/1?nav=tocList&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAA magazines&lt;/a&gt;, illustrating its goal for exposing ideas to a wider audience, captivating their interest in a way that invokes a discussion.&lt;/li&gt;
 &lt;li&gt;The meeting has ended-up where everyone achnowledged the value of exchanging perspectives. It is hoped members share more technical ideas after having achieved a good technical progress.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Quotes&lt;/p&gt;
@@ -155,8 +155,8 @@
   &lt;summary&gt;Weekly Meeting: Revamping The Group &lt;em&gt;(12/03/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-12-03-2022:f&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/slide/#/2/slide/view/JV1czKqPnJutA-KrYeF1h6spV4VXJZt60k4Lvma7pM0/present/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-12-03-2022:f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/slide/#/2/slide/view/JV1czKqPnJutA-KrYeF1h6spV4VXJZt60k4Lvma7pM0/present/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
@@ -176,8 +176,8 @@
   &lt;summary&gt;Weekly Meeting: More Courses &lt;em&gt;(26/02/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-26-02-2022:0&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/wZJk6irMDAM+qhBXgPGWX5Wp/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-26-02-2022:0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/wZJk6irMDAM&amp;#43;qhBXgPGWX5Wp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objective&lt;/p&gt;
 &lt;ul&gt;
@@ -194,7 +194,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(19/02/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-19-02-2022:0&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-19-02-2022:0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
@@ -214,7 +214,7 @@
   &lt;summary&gt;Weekly Meeting &lt;em&gt;(12/02/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-12-02-2022:4&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-weekly-12-02-2022:4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
@@ -263,13 +263,13 @@
   &lt;summary&gt;First Meeting &lt;em&gt;(05/02/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-first-meeting:e&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-first-meeting:e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Networking, Where Members introduce themselves &lt;em&gt;(15 min)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Discussion, On students&#39; collaboration and online communities; Their challenges and suggested solutions  &lt;em&gt;(20 min)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Discussion, On members&#39; skills and goals, and how to leverage that for Projects and subsidy learning &lt;em&gt;(10 min)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Discussion, On students&amp;rsquo; collaboration and online communities; Their challenges and suggested solutions  &lt;em&gt;(20 min)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Discussion, On members&amp;rsquo; skills and goals, and how to leverage that for Projects and subsidy learning &lt;em&gt;(10 min)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Gaming, Multiplayer among members &lt;em&gt;(5 min)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Summary&lt;/p&gt;
@@ -297,7 +297,7 @@
 &lt;p&gt;&lt;em&gt;ashok&lt;/em&gt; explained how Physics might contribute to computing, as processing power is physically realized through the laws of physics.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Members talked about the first picture of a blackhole (see &lt;a href=&#34;https://www.sciencenewsforstudents.org/article/black-hole-first-photo-event-horizon-telescope&#34;&gt;this&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Members talked about the first picture of a blackhole (see &lt;a href=&#34;https://www.sciencenewsforstudents.org/article/black-hole-first-photo-event-horizon-telescope&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Quotes&lt;/p&gt;
@@ -314,8 +314,8 @@
   &lt;summary&gt;Intro &lt;em&gt;(20/01/2022)&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-intro:6&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/NWIKR+KMLac2CbE4uNfEQ62S/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/erik-alg-intro:6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/NWIKR&amp;#43;KMLac2CbE4uNfEQ62S/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Objectives&lt;/p&gt;
 &lt;ul&gt;
